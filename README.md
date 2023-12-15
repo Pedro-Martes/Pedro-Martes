@@ -1,6 +1,6 @@
 
 # Welcome! 👋🏼
-Hi, I'm Pedro Matos, a tech enthusiast and problem solver dedicated to making the world a better place.
+Hi, I'm Pedro Matos, a tech enthusiast and dedicated to making the world a better place.
 
 
 - 👨🏻‍💻 Fullstack Dev

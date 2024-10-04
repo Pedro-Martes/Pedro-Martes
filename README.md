@@ -37,5 +37,5 @@ Hi, I'm Pedro Matos, a tech enthusiast and dedicated to making the world a bette
 [![Lkn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-matos-a25199193/)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.pedro_matos/)
 ![gmail](https://img.shields.io/badge/Perdrom2913@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)](https://wa.me/55719823304219)
+[![wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)](https://wa.me/5571982304219)
 
